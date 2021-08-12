@@ -1,0 +1,8 @@
+waypoint:NiggerThugPalace:N:-1839:71:787:4:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:-1816:63:916:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:-1831:16:884:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:-1865:13:914:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:-1840:13:938:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:-1849:40:868:0:false:0:gui.xaero_default:false:0
+waypoint:oil:O:-2114:81:1652:2:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint:D:-1891:34:800:0:false:1:gui.xaero_default:false:0

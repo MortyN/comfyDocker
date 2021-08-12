@@ -1,0 +1,11 @@
+{
+  "inventory": {
+    "0:6": "improvedbackpacks:backpack",
+    "0:2": "forestry:book_forester",
+    "0:5": "tconstruct:book",
+    "0:4": "conarm:book",
+    "0:0": "animania:animania_manual",
+    "0:1": "buildcraftlib:guide",
+    "0:3": "industrialforegoing:book_manual"
+  }
+}

@@ -1,0 +1,8 @@
+# Configuration file
+
+settings {
+    [default: ]
+    S:Fixed-Background=brgpax:textures/combs.png
+}
+
+

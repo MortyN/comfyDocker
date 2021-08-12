@@ -1,0 +1,516 @@
+RefinedObsidian
+
+HOPGraphite
+	ingotHOPGraphite
+	dustHOPGraphite
+
+Manyullyn
+	ingotManyullyn
+	nuggetManyullyn
+	blockManyullyn
+
+Electrum
+	wireElectrum
+	slabSheetmetalElectrum
+	slabElectrum
+	dustSmallElectrum
+	blockSheetmetalElectrum
+	plateElectrum
+	ingotElectrum
+	nuggetElectrum
+	blockElectrum
+	dustElectrum
+
+Uru
+	oreUru
+	ingotUru
+	nuggetUru
+	blockUru
+	dustUru
+
+Tiberium
+	crystalTiberium
+	oreTiberium
+	ingotTiberium
+	nuggetTiberium
+	blockTiberium
+	dustTiberium
+
+Lead
+	slabSheetmetalLead
+	slabLead
+	oreLead
+	dustSmallLead
+	blockSheetmetalLead
+	plateLead
+	ingotLead
+	nuggetLead
+	blockLead
+	dustLead
+
+Iridium
+	reflectorIridium
+	oreIridium
+	plateIridium
+	ingotIridium
+	nuggetIridium
+	blockIridium
+
+Meteorite
+	ingotMeteorite
+	nuggetMeteorite
+	blockMeteorite
+	dustMeteorite
+
+Astrium
+	ingotAstrium
+	nuggetAstrium
+	blockAstrium
+	dustAstrium
+
+Eezo
+	oreEezo
+	ingotEezo
+	nuggetEezo
+	blockEezo
+	dustEezo
+
+Nucleum
+	ingotNucleum
+	nuggetNucleum
+	blockNucleum
+	dustNucleum
+
+AdvancedAlloy
+	plateAdvancedAlloy
+	ingotAdvancedAlloy
+
+Yellorium
+
+Blutonium
+
+Seismum
+	ingotSeismum
+	nuggetSeismum
+	blockSeismum
+	dustSeismum
+
+Prometheum
+	orePrometheum
+	ingotPrometheum
+	nuggetPrometheum
+	blockPrometheum
+	dustPrometheum
+
+Lumix
+	ingotLumix
+	nuggetLumix
+	blockLumix
+	dustLumix
+
+Palladium
+	orePalladium
+	ingotPalladium
+	nuggetPalladium
+	blockPalladium
+	dustPalladium
+
+RefinedIron
+	plateRefinedIron
+	ingotRefinedIron
+	nuggetRefinedIron
+
+HotTungstensteel
+	ingotHotTungstensteel
+	nuggetHotTungstensteel
+
+Steel
+	stickSteel
+	scaffoldingSteel
+	wireSteel
+	slabSheetmetalSteel
+	slabSteel
+	dustSmallSteel
+	blockSheetmetalSteel
+	fenceSteel
+	plateSteel
+	ingotSteel
+	nuggetSteel
+	blockSteel
+	dustSteel
+
+Fractum
+	ingotFractum
+	nuggetFractum
+	blockFractum
+	dustFractum
+
+RefinedGlowstone
+
+Dilithium
+	crystalDilithium
+	ingotDilithium
+	nuggetDilithium
+	blockDilithium
+	dustDilithium
+
+Bronze
+	gearBronze
+	dustSmallBronze
+	plateBronze
+	ingotBronze
+	nuggetBronze
+	blockBronze
+	dustBronze
+
+Titanium
+	dustSmallTitanium
+	plateTitanium
+	ingotTitanium
+	nuggetTitanium
+	blockTitanium
+	dustTitanium
+
+Yrdeen
+	ingotYrdeen
+	nuggetYrdeen
+	blockYrdeen
+	dustYrdeen
+
+Tin
+	oreTin
+	gearTin
+	dustSmallTin
+	plateTin
+	ingotTin
+	nuggetTin
+	blockTin
+	dustTin
+
+Osram
+	oreOsram
+	ingotOsram
+	nuggetOsram
+	blockOsram
+	dustOsram
+
+Niob
+	ingotNiob
+	nuggetNiob
+	blockNiob
+	dustNiob
+
+Platinum
+	dustSmallPlatinum
+	platePlatinum
+	ingotPlatinum
+	nuggetPlatinum
+	blockPlatinum
+	dustPlatinum
+
+Obsidiorite
+	ingotObsidiorite
+	nuggetObsidiorite
+	blockObsidiorite
+	dustObsidiorite
+
+Uranium
+	slabSheetmetalUranium
+	slabUranium
+	oreUranium
+	blockSheetmetalUranium
+	plateUranium
+	ingotUranium
+	nuggetUranium
+	blockUranium
+	dustUranium
+
+Adamant
+	ingotAdamant
+	nuggetAdamant
+	blockAdamant
+	dustAdamant
+
+Abyssum
+	oreAbyssum
+	ingotAbyssum
+	nuggetAbyssum
+	blockAbyssum
+	dustAbyssum
+
+Ovium
+	oreOvium
+	ingotOvium
+	nuggetOvium
+	blockOvium
+	dustOvium
+
+Cyanite
+
+Pigiron
+	ingotPigiron
+	nuggetPigiron
+	blockPigiron
+
+Proxii
+	ingotProxii
+	nuggetProxii
+	blockProxii
+	dustProxii
+
+Vibranium
+	oreVibranium
+	ingotVibranium
+	nuggetVibranium
+	blockVibranium
+	dustVibranium
+
+Invar
+	dustSmallInvar
+	plateInvar
+	ingotInvar
+	nuggetInvar
+	blockInvar
+	dustInvar
+
+Karmesine
+	oreKarmesine
+	ingotKarmesine
+	nuggetKarmesine
+	blockKarmesine
+	dustKarmesine
+
+Tritonite
+	ingotTritonite
+	nuggetTritonite
+	blockTritonite
+	dustTritonite
+
+Iron
+	stickIron
+	platerefinedIron
+	slabSheetmetalIron
+	oreIron
+	gearIron
+	dustSmallIron
+	blockSheetmetalIron
+	fenceIron
+	plateIron
+	ingotIron
+	nuggetIron
+	blockIron
+	dustIron
+
+MixedMetal
+	ingotMixedMetal
+
+Tungsten
+	oreTungsten
+	dustSmallTungsten
+	plateTungsten
+	ingotTungsten
+	nuggetTungsten
+	blockTungsten
+	dustTungsten
+
+Duranite
+	oreDuranite
+	ingotDuranite
+	nuggetDuranite
+	blockDuranite
+	dustDuranite
+
+Valyrium
+	oreValyrium
+	ingotValyrium
+	nuggetValyrium
+	blockValyrium
+	dustValyrium
+
+Nickel
+	slabSheetmetalNickel
+	slabNickel
+	oreNickel
+	dustSmallNickel
+	blockSheetmetalNickel
+	plateNickel
+	ingotNickel
+	nuggetNickel
+	blockNickel
+	dustNickel
+
+Brass
+	dustSmallBrass
+	plateBrass
+	ingotBrass
+	nuggetBrass
+	blockBrass
+	dustBrass
+
+Basalt
+	dustSmallBasalt
+	ingotBasalt
+	nuggetBasalt
+	blockBasalt
+	dustBasalt
+
+Ignitz
+	ingotIgnitz
+	nuggetIgnitz
+	blockIgnitz
+	dustIgnitz
+
+Dyonite
+	ingotDyonite
+	nuggetDyonite
+	blockDyonite
+	dustDyonite
+
+Terrax
+	ingotTerrax
+	nuggetTerrax
+	blockTerrax
+	dustTerrax
+
+Coal
+	oreCoal
+	dustSmallCoal
+	plateCoal
+	blockCoal
+	dustCoal
+
+Copper
+	wireCopper
+	slabSheetmetalCopper
+	slabCopper
+	oreCopper
+	gearCopper
+	dustSmallCopper
+	blockSheetmetalCopper
+	plateCopper
+	ingotCopper
+	nuggetCopper
+	blockCopper
+	dustCopper
+
+IridiumAlloy
+	plateIridiumAlloy
+	ingotIridiumAlloy
+
+Ardite
+	oreArdite
+	ingotArdite
+	nuggetArdite
+	blockArdite
+
+Jauxum
+	oreJauxum
+	ingotJauxum
+	nuggetJauxum
+	blockJauxum
+	dustJauxum
+
+Alubrass
+	ingotAlubrass
+	nuggetAlubrass
+	blockAlubrass
+
+Triberium
+	ingotTriberium
+	nuggetTriberium
+	blockTriberium
+	dustTriberium
+
+Solarium
+	ingotSolarium
+	nuggetSolarium
+	blockSolarium
+	dustSolarium
+
+Iox
+	ingotIox
+	nuggetIox
+	blockIox
+	dustIox
+
+Gold
+	slabSheetmetalGold
+	oreGold
+	gearGold
+	dustSmallGold
+	blockSheetmetalGold
+	plateGold
+	ingotGold
+	nuggetGold
+	blockGold
+	dustGold
+
+Aurorium
+	oreAurorium
+	ingotAurorium
+	nuggetAurorium
+	blockAurorium
+	dustAurorium
+
+Zinc
+	dustSmallZinc
+	plateZinc
+	ingotZinc
+	nuggetZinc
+	blockZinc
+	dustZinc
+
+Violium
+	ingotViolium
+	nuggetViolium
+	blockViolium
+	dustViolium
+
+Tungstensteel
+	plateTungstensteel
+	ingotTungstensteel
+	nuggetTungstensteel
+	blockTungstensteel
+
+Silver
+	slabSheetmetalSilver
+	slabSilver
+	oreSilver
+	dustSmallSilver
+	blockSheetmetalSilver
+	plateSilver
+	ingotSilver
+	nuggetSilver
+	blockSilver
+	dustSilver
+
+Osmium
+
+Cobalt
+	oreCobalt
+	ingotCobalt
+	nuggetCobalt
+	blockCobalt
+
+HoneyComb
+	ingotHoneyComb
+
+Imperomite
+	ingotImperomite
+	nuggetImperomite
+	blockImperomite
+	dustImperomite
+
+Alumite
+	ingotAlumite
+	nuggetAlumite
+	blockAlumite
+
+Infinity
+
+Nihilite
+	ingotNihilite
+	nuggetNihilite
+	blockNihilite
+	dustNihilite
+
